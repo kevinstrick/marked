@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 <key>Label</key>
-	<string>com.github.sheagcraig.marked</string>
+	<string>com.foxeg.ffe.corpbookmarks</string>
 <key>ProgramArguments</key>
 	<array>
-        <string>/Library/Application Support/marked/marked.py</string>
+		<string>/Library/Application Support/FEG/bookmarks/ManageBookmarks.sh</string>
 	</array>
 	<key>RunAtLoad</key>
 	<true/>

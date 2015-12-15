@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OrganizationName</key>
+	<string>Fox Filmed Entertainment Group</string>
+    <key>SupportWebsite</key>
+    <string>http://fox.service-now.com</string>
+    <key>SupportEmail</key>
+    <string>csc.helpdesk@fox.com</string>
+    <key>FolderName</key>
+	<string>Corporate Favorites</string>
+    <key>Bookmarks</key>
+    <array>
+			<dict>
+			<key>title</key>
+			<string>FOX Careers</string>
+			<key>URL</key>
+			<string>http://www.foxcareers.com</string>
+			</dict>
+			<dict>
+			<key>title</key>
+			<string>FOX Development</string>
+			<key>URL</key>
+			<string>http://fox.learn.taleo.net</string>
+			</dict>
+			<dict>
+			<key>title</key>
+			<string>FOX Forward</string>
+			<key>URL</key>
+			<string>http://www.foxforward.com</string>
+			</dict>
+			<dict>
+			<key>title</key>
+			<string>FOX International</string>
+			<key>URL</key>
+			<string>http://www.foxinternational.com</string>
+			</dict>
+			<dict>
+			<key>title</key>
+			<string>FOX Movies</string>
+			<key>URL</key>
+			<string>http://www.foxmovies.com</string>
+			</dict>
+			<dict>
+			<key>title</key>
+			<string>FOX News</string>
+			<key>URL</key>
+			<string>http://www.foxnews.com</string>
+			</dict>
+			<dict>
+			<key>title</key>
+			<string>FOX Sports</string>
+			<key>URL</key>
+			<string>http://www.foxsports.com</string>
+			</dict>
+			<dict>
+			<key>title</key>
+			<string>FOX Studios</string>
+			<key>URL</key>
+			<string>http://www.foxstudios.com</string>
+			</dict>
+			<dict>
+			<key>title</key>
+			<string>FOX.com</string>
+			<key>URL</key>
+			<string>http://www.fox.com</string>
+			</dict>
+			<dict>
+			<key>title</key>
+			<string>FX Networks</string>
+			<key>URL</key>
+			<string>http://www.fxnetworks.com</string>
+			</dict>
+			<dict>
+			<key>title</key>
+			<string>MyFox4Me</string>
+			<key>URL</key>
+			<string>http://www.myfox4me.com</string>
+			</dict>
+			<dict>
+			<key>title</key>
+			<string>MyFoxLA</string>
+			<key>URL</key>
+			<string>http://www.myfoxla.com</string>
+			</dict>
+    </array>
+</dict>
+</plist>

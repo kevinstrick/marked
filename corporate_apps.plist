@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OrganizationName</key>
+	<string>Fox Filmed Entertainment Group</string>
+    <key>SupportWebsite</key>
+    <string>http://fox.service-now.com</string>
+    <key>SupportEmail</key>
+    <string>csc.helpdesk@fox.com</string>
+    <key>FolderName</key>
+	<string>Corporate Apps</string>
+    <key>Bookmarks</key>
+    <array>
+		<dict>
+			<key>title</key>
+			<string>Citrix Receiver</string>
+			<key>URL</key>
+			<string>https://remote.foxinc.com</string>
+			</dict>
+			<dict>
+			<key>title</key>
+			<string>FOX on Box</string>
+			<key>URL</key>
+			<string>https://foxgroup.app.box.com</string>
+			</dict>
+			<dict>
+			<key>title</key>
+			<string>FOX Self Service</string>
+			<key>URL</key>
+			<string>selfservice://</string>
+			</dict>
+			<dict>
+			<key>title</key>
+			<string>FOX Time</string>
+			<key>URL</key>
+			<string>http://foxtime.foxinc.com</string>
+			</dict>
+			<dict>
+			<key>title</key>
+			<string>Outlook Web Access</string>
+			<key>URL</key>
+			<string>https://outlook.com/owa/fox.com</string>
+			</dict>
+			<dict>
+			<key>title</key>
+			<string>PeopleSoft</string>
+			<key>URL</key>
+			<string>https://financials.foxinc.com</string>
+			</dict>
+			<dict>
+			<key>title</key>
+			<string>Proofpoint Spam Release</string>
+			<key>URL</key>
+			<string>https://spamrelease.fox.com:10020</string>
+			</dict>
+			<dict>
+			<key>title</key>
+			<string>ServiceNow</string>
+			<key>URL</key>
+			<string>https://fox.service-now.com</string>
+			</dict>
+    </array>
+</dict>
+</plist>
